@@ -7,3 +7,5 @@ the program itself is also hosted here:
 https://github.com/integralyogin/lum
 
 instructions for its use is there, try the examples
+as is further information on the databases. 
+ill put here soon probably.
