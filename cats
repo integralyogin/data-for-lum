@@ -10,13 +10,13 @@
 
 "CYBERNETICS (authors, names) ::: Norbert Weiner"
 
-"ENGLISH LITERATURE (authors, names) ::: Douglas Adams, Issac Asimov, Arthur C. Clarke, Lovecraft, Huxley, Voltaire, Wells"
+"ENGLISH LITERATURE (authors, names) ::: Douglas Adams, Issac Asimov, Card, Arthur C. Clarke, Emerson, Gaiman, Gibson, Heinlein, Herbert, Hesse, Huxley, King, Lewis, Lovecraft, Orwell, Practchett, Tolkien, Tolstoy, Voltaire, Vonnegut, H G Wells"
 
 "INTEGRAL THEORY (authors, names) ::: Ken Wilber"
 
 "INTEGRAL YOGA (authors, names) ::: Sri Aurobindo, The Mother, Nolini Kanta Gupta, Satprem"
 
-"MATHEMATICS (authors, names) ::: Norbert Wiener, Alfred North Whitehead"
+"MATHEMATICS (authors, names) ::: Pascal, Russell, Norbert Wiener, Alfred North Whitehead"
 
 "OCCULTISM (authors, names) ::: Peter J. Carroll, Aleister Crowley, Dion Fortune, Manly P. Hall, Phil Hine, Elphias Levi, Israel Regardie,  Robert Anton Wilson,$"
 
