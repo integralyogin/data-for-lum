@@ -1,0 +1,62 @@
+......[[__.CURRENT.__]].......
+0) which next? THE LIB?
+
+......[[__.MAJOR & EXTENDED.__]].......
+0) WHY LUM? (as an offering (at the feet), a means to aid the study of Sri Aurobindo?, +intent, eschool, aid, help me learn, knowledge)
+0) THE_LIBRARY (way to search THE_LIB or at least add a book)
+0) AI (eteacher)
+0) Chatroom & Forum
+
+......[[__.SEARCH.__]].......
+0) SEARCH prearg like syn (which would extend search to include synonyms)
+0) SEARCH prearg that allows for easy regex (like "-" for reverse grep)
+
+......[[__.DISPLAY.__]].......
+0) DISPLAY Savitri
+
+......[[__.ADD.__]].......
+0) ADD fast easy authors information 
+0) ADD a million quotes (ie extract some books or web)
+
+......[[__.SORT.__]].......
+0) SORT / group keys results by authors, (ex God >> Sri Aurobindo 112, The Mother 110)
+
+......[[__.LOG.__]].......
+0) LOG input somewhere (need php?)
+
+......[[__.PROCESS.__]].......
+0) should processing be done front or back end?
+0) keys auth processing (like count author instances)
+0) savitri processing
+
+......[[__.TAG.__]].......
+0) tag keys for subjects like #christianity, and #iy, and #it)
+
+......[[__.PRETTIFY.__]].......
+0) CATS results from "cats auth" (how to bold subject names?)
+0) KEYS line breaks for things like Savitri, or Prayers and Meditations, etc
+0) KEYS bolden search term
+
+......[[__.CLEAN.__]].......
+0) CLEAN arex
+0) CLEAN gloss
+
+......[[__.LEARN.__]].......
+0) PHP?
+0) more JS
+0) some CSS
+
+......[[__.UNSORTED.__]].......
+0) ADD preprocessor, like parsing newlines
+0) TAB to go bar   
+0) OPEN new tabs
+0) SHOW alt text on mouse over
+0) limits of lum?
+
+......[[__.DONE.__]].......
+1) theres all those lists of terms in lumcats(like goiy), but they arent in categories
+1) search keys if there is no database qualifier
+1) reassign pgup + home to go to top of page
+1) move verbs from syn to cats
+1) fix home so it works in input
+1) SEARCH exemptions / reverse grep
