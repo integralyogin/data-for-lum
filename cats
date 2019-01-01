@@ -1,51 +1,53 @@
-"Not Yet Categorized:::$"
+"......[[__.AUTHORS BY SUBJECT.__]]....... ::: "
 
-
+"ARTIFICIAL INTELLIGENCE (authors, names) ::: Ben Coppin, David Gamez, Ben Goertzel, George F Luger, Nils J. Nilsson, Peter Norvig, Alan Perlis, Stuart Russell, Steven Tantimoto, Alan Turing, "
 
 "BUDDHISM (authors, names) ::: Khyentse Rinpoche, Sogyal Rinpoche, Dzogchen Ponlop Rinpoche, Chogyam Trungpa, Chodron, see zen"
 
 "CHRISTIANITY (authors, names) ::: Saint Thomas Aquinas, Saint Augustine, Saint Teresa of Avila, Pierre Teilhard de Chardin, Meister Eckhart, Saint Francis, Saint Germain, C. S. Lewis, Saint John of the Cross"
 
-"COMPUTER SCIENCE (authors, names) ::: Norvig, Russell, Turing, Nilsson"
+"COMPUTER SCIENCE (authors, names) ::: Marijn Haverbeke, Richie Kernighan, Linus Torvalds,  "
 
 "CYBERNETICS (authors, names) ::: Norbert Weiner"
 
-"ENGLISH LITERATURE (authors, names) ::: Douglas Adams, Issac Asimov, Card, Arthur C. Clarke, Emerson, Gaiman, Gibson, Heinlein, Herbert, Hesse, Huxley, King, Lewis, Lovecraft, Orwell, Practchett, Tolkien, Tolstoy, Voltaire, Vonnegut, H G Wells"
+"ENGLISH LITERATURE (authors, names) ::: Douglas Adams, Ibn Arabi, Issac Asimov, Iain M. Banks, Terry Brooks, Orson Scott Card, Lewis Carroll, Arthur C. Clarke, Philip K. Dick, Ralph Waldo Emerson, Neil Gaiman, William Gibson, Haruki Murakami, Robert A. Heinlein, Brian Herbert, Hermann Hesse, Aldous Huxley, Robert Jordan, Stephen King, Arthur Koestler, H. P. Lovecraft, George R. R. Martin, George Orwell, Terry Pratchett, J. R. R. Tolkien, Leo Tolstoy, Voltaire, Kurt Vonnegut, H. G. Wells, Martha Wells, Lu Xun (split into scifi and fantasy)"
 
-"INTEGRAL THEORY (authors, names) ::: Ken Wilber"
+"INTEGRAL THEORY (authors, names) ::: Ken Wilber, Don Beck, Michael Murphy, Sean-Esbjorn Hargens, Frank Visser"
 
-"INTEGRAL YOGA (authors, names) ::: Sri Aurobindo, The Mother, Nolini Kanta Gupta, Satprem"
+"INTEGRAL YOGA (authors, names) ::: Sri Aurobindo, The Mother, Nolini Kanta Gupta, Satprem, Champaklal, A. S. Dalal, M. P. Pandit, Pavitra, Nirodbaran, Anilbaran Roy"
 
-"MATHEMATICS (authors, names) ::: Pascal, Russell, Norbert Wiener, Alfred North Whitehead"
+"LINGUISTICS (authors, names) ::: Leonard Bloomfield, Noam Chomsky, Alfred Korzybskyi, Kenneth Pike, Willard Van Orman Quine, Ludwig Wittgenstein"
+
+"MATHEMATICS (authors, names) ::: R. Buckminster Fuller, Kurt Godel, Blaise Pascal, Bertrand Russell, Norbert Wiener, Alfred North Whitehead"
 
 "OCCULTISM (authors, names) ::: Peter J. Carroll, Aleister Crowley, Dion Fortune, Manly P. Hall, Phil Hine, Elphias Levi, Israel Regardie,  Robert Anton Wilson,$"
 
-"PHILOSOPHY (authors, names) ::: Aristotle, Jean Baudrillard, Albert Camus, Dostoevsky, Habermas, Hegel, Heidegger, Franz Kafka, Soren Kierkegaard, Kripke, Friedrich Nietzsche, Plato, Plotinus, Rousseau, Bertrand Russell, Sartre, Schopenhauer, Seneca, Sidis, Spinoza, Zizek"
+"PHILOSOPHY (authors, names) ::: Aristotle, Jean Baudrillard, Albert Camus, Donald Davidson, Simone de Beauvoir, Jacques Derrida, Rene Descartes, Diogenes, Fyodor Dostoevsky, Michel Foucault, Jurgen Habermas, Georg Wilhelm Friedrich Hegel, Martin Heidegger, Franz Kafka, Walter Kaufmann, Soren Kierkegaard, Saul A. Kripke,  John Stuart Mill, Friedrich Nietzsche, Blaise Pascal, Plato, Plotinus, Jean-Jacques Rousseau, Bertrand Russell, Jean-Paul Sartre, Arthur Schopenhauer, Lucius Annaeus Seneca, William James Sidis, B. Spinoza, Slavoj Zizek"
 
-"PHYSICS (authors, names) ::: Capra, Albert Einstein, Euler, Feynman, Hawkings, Werner Heisenberg, Kuhn, Maxwell, Neumann, Issac Newton, Talbot, Tesla, Da Vinci"
+"PHYSICS (authors, names) ::: Fritjof Capra, Da Vinci, Albert Einstein, Leonard Euler, Richard P Feynman, Stephen Hawkings, Werner Heisenberg, Thomas Kuhn, Lifschitz Landau, James Clark Maxwell, Jon von Neumann, Issac Newton, Michael Talbot, Nikola Tesla, "
 
-"POETRY (authors, names) ::: Matsuo Basho, William Blake, Jorge Luis Borges, Cervantes, Dante, Kahlil Gibran, Hafiz, Homer, Edgar Allan Poe, Jalaluddin Rumi, Shakespeare, Rabindranath Tagore, Sri Aurobindo, Saul Williams"
+"POETRY (authors, names) ::: Matsuo Basho, William Blake, Jorge Luis Borges, Cervantes, Dante Alighieri, Kahlil Gibran, Hafiz, Homer, Edgar Allan Poe, Jalaluddin Rumi, Shakespeare,  Izumi Shikibu, Rabindranath Tagore, Sri Aurobindo, Saul Williams, Walt Whitman"
 
-"PSYCHOLOGY (authors, names) ::: Adler, Bandura, Csikszentmihaly, Ellis, Erikson, Freud, Howard Gardner, Gebser, Carol Gilligan, Goleman, William James, Carl Jung, Arthur Koestler, Lipton, Abraham Maslow, Metzner, Peterson, Piaget, Carl Rogers, Seligman, Walsh, Wundt"
+"PSYCHOLOGY (authors, names) ::: Alfred Adler, Albert Bandura, Mihaly Csikszentmihaly, Albert Ellis, Erek H. Erikson, Sigmund Freud, Howard Gardner, Jean Gebser, Carol Gilligan, Daniel Goleman, William James, Carl Gustav Jung, Arthur Koestler, Kohlberg, Bruce H. Lipton, Abraham Maslow, Ralph Metzner, Jordan Peterson, Jean Piaget, Carl Rogers, Martin Seligman, Roger Walsh, Wilhelm Max Wundt"
 
 "SUFISM (authors, names) ::: Jalaluddin Rumi, Kahlil Gibran, Hazrat Inayat Khan, Hafiz, Kabir, $"
 
-"THEOLOGY (authors, names) ::: James Fowler"
+"THEOLOGY (authors, names) ::: James W. Fowler"
 
 "YOGA (authors, names) ::: Sri Nisargadatta Maharaj, Sri Ramakrishna, Sri Ramana Maharshi, Swami Satyananda Saraswati, Swami Sivananda, Swami Vivekananda, Paramahansa Yogananda"
 
 "ZEN (authors, names) ::: Bodhidharma, Dogen Zenji, Taneda Santoka, D. T. Suzuki, Shunryu Suzuki, Hakuin Ekaku, Matsuo Basho?, Shinkichi Takahashi, Enomoto Seifu Jo?$"
 
-
+"UNSORTED (authors, names) ::: Mark Twain, Benjamin Disraeli, Michel de Montaigne, Henry David Thoreau, Lord Byron, Baltasar Gracian, Thomas Fuller, Benjamin Franklin, Francis Bacon, Proverbs, Edward Schon, Xiaolu Guo, Robert Browning, Mizuno?, Henri Bergson, Gottfried Leibniz, Marcus Aurelius, Kant, Hadis, St. Jerome, Robert Fritz, William Butler Yeats, Charles Dickens, Virgil, Nemoto, Bruce Lee, Percy Bysshe Shelley, Petrarch, Charles Baudelaire, Thomas Jefferson, Francis Hutcheson, Marquis de Vauvenargues, Li Qingzhao, Karl Popper, David Hume, Carl Sagan, Choshu, Gospel of Thomas, Oscar Wilde, Henri Poincare, Alfred Hitchcock, "
 
 "OCCULTISM::: The Circle, The Wand"
 
-
 "TAGS::: sufi, poetry, mysticism, occultism, philosophy$"
 
-"THE_MOTHER::: Prayers and Medtations, Words of the Mother, "
+"THE_MOTHER BIBLIOGRAPHY ::: Prayers and Medtations, Words of the Mother, "
+"THE MOTHERS SYMBOL (elements) ::: The centre of the Mother's symbol represent the Divine Consciousness, the Supreme Mother, the Mahashakti. [Aditi?] // The four petals of the Mother's symbol represent the four Aspects or Personalities of the Mother; Maheshwari (Wisdom), Mahalakshmi(Harmony), Mahakali(Strength) and Mahasaraswati (Perfection). // The twelve petals of the Mother's symbol represent; Sincerity, Humility, Gratitude, Perseverance, Aspiration, Receptivity, Progress, Courage, Goodness, Generosity, Equality, Peace. ~ https://www.auroville.com/silver-ring-mother-s-symbol.html"
 
-"SEARCH_TERMS::: (see LUM and goiy)$"
+"SEARCH TERMS NEEDING MORE RESULTS ::: on love, luminous, effective deity $"
 
 "ALSO::: see mains or EINS?$"
 
