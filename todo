@@ -1,59 +1,87 @@
-......[[__.CURRENT.__]].......
+<b>TODO FOR LUM</b><br>
+
+<b>......[[__.CURRENT.__]].......</b>
 0) which next? THE LIB?
 
-......[[__.MAJOR & EXTENDED.__]].......
-0) WHY LUM? (as an offering (at the feet), a means to aid the study of Sri Aurobindo?, +intent, eschool, aid, help me learn, knowledge)
+<b>......[[__.MAJOR & EXTENDED.__]].......</b>
 0) THE_LIBRARY (way to search THE_LIB or at least add a book)
 0) AI (eteacher)
 0) Chatroom & Forum
 
-......[[__.SEARCH.__]].......
+<b>......[[__.QUESTIONS.__]].......</b>
+0) WHAT is Lum?
+0) WHY LUM? (as an offering (at the feet), a means to aid the study of Sri Aurobindo?, +intent, eschool, aid, help me learn, knowledge)
+
+
+<b>......[[__.SEARCH.__]].......</b>
 0) SEARCH prearg like syn (which would extend search to include synonyms)
-0) SEARCH prearg that allows for easy regex (like "-" for reverse grep)
+0) SEARCH prearg that allows for easy regex (like "-" for reverse grep, google simple search)
+0) SEARCH for keys that contain an author that is not categoried in cats
+0) and / or 
 
-......[[__.DISPLAY.__]].......
+<b>......[[__.DISPLAY.__]].......</b>
 0) DISPLAY Savitri
+0) DISPLAY text as html w JS (for keys, cats)
+0) DISPLAY input bar permanently on top?
 
-......[[__.ADD.__]].......
+<b>......[[__.ADD.__]].......</b>
 0) ADD fast easy authors information 
 0) ADD a million quotes (ie extract some books or web)
+0) add to keys from input (or add to ekeys or xkeys)
 
-......[[__.SORT.__]].......
+<b>......[[__.SORT.__]].......</b>
 0) SORT / group keys results by authors, (ex God >> Sri Aurobindo 112, The Mother 110)
+0) SORT keys by string length
+0) SORT keys alphabetically (cool for: ^"the)
+0) SORT search terms (by essence? or bigrams? alphabetically? string length)
 
-......[[__.LOG.__]].......
+<b>......[[__.LOG.__]].......</b>
 0) LOG input somewhere (need php?)
+0) LOG IP & time
 
-......[[__.PROCESS.__]].......
+
+<b>......[[__.PROCESS.__]].......</b>
 0) should processing be done front or back end?
 0) keys auth processing (like count author instances)
 0) savitri processing
 
-......[[__.TAG.__]].......
+<b>......[[__.TAG.__]].......</b>
 0) tag keys for subjects like #christianity, and #iy, and #it)
 
-......[[__.PRETTIFY.__]].......
-0) CATS results from "cats auth" (how to bold subject names?)
+<b>......[[__.PRETTIFY.__]].......</b>
 0) KEYS line breaks for things like Savitri, or Prayers and Meditations, etc
 0) KEYS bolden search term
+0) PRETTY print regex examples
 
-......[[__.CLEAN.__]].......
+<b>......[[__.CLEAN.__]].......</b>
 0) CLEAN arex
 0) CLEAN gloss
 
-......[[__.LEARN.__]].......
+<b>......[[__.LEARN.__]].......</b>
 0) PHP?
 0) more JS
 0) some CSS
+0) nodeJS tuts https://www.youtube.com/playlist?list=PLGLfVvz_LVvSpxyVx5XcprEgvhJ1BzruD
+0) LEARN bootstrap, handlebars, express, mongoDB
 
-......[[__.UNSORTED.__]].......
+<b>......[[__.UNSORTED.__]].......</b>
 0) ADD preprocessor, like parsing newlines
 0) TAB to go bar   
 0) OPEN new tabs
 0) SHOW alt text on mouse over
 0) limits of lum?
+0) what authors have less then 5 results from keys
+0) profiles
+0) lums relation to discord?
+0) add to todo from phone?
+0) questions?
+0) eschool_main on site?
+0) #scifi automation
 
-......[[__.DONE.__]].......
+
+
+<b>......[[__.DONE.__]].......</b>
+1) 01-02-2019 00:28 ~ CATS results from "cats auth" (how to bold subject names?)
 1) theres all those lists of terms in lumcats(like goiy), but they arent in categories
 1) search keys if there is no database qualifier
 1) reassign pgup + home to go to top of page
