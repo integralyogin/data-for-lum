@@ -36,31 +36,37 @@ conditions:
     if ___ then ____
     but first 
     
-    >>> [[___.WORD_NET.___]] <<<
+    <h3>>>> [[___.WORD_NET.___]] <<<</h3>
 
-    <<< HYPERNYM CHAINS
+    <<< <u>HYPERNYM CHAINS</u>
 
     <b>strength n.01</b> < property n.02 < attribute n.02 < abstraction n.06 < entity n.01
     <b>intellience n.01</b> < ability n.02 < cognition n.01 < psychological_feature n.01 < abstraction.n.06
-    willpower(self_control n.02) < resoluteness n.01 < trait n.01 < attribute n.02
-    wisdom n.01 < content n.05 < cognition.n.01
-    wisdom n.02 < trait.n.01 < attribute n.02
-    wisdom n.03 < know-how n.01 < ability.n.02
-    wisdom n.04 < good.n.03 < quality.n.01(!) < attribute n.01
+    <b>willpower(self_control n.02)</b> < resoluteness n.01 < trait n.01 < attribute n.02
+    <b>wisdom n.01</b> < content n.05 < cognition.n.01
+    <b>wisdom n.02</b> < trait.n.01 < attribute n.02
+    <b>wisdom n.03</b> < know-how n.01 < ability.n.02
+    <b>wisdom n.04</b> < good.n.03 < quality.n.01(!) < attribute n.01
 
-    >>> HYPONYM EXPANSIONS
+    >>> <u>HYPONYM DEPTH CHAINS</u>
 
-
+    ratio.n.01, efficiency.n.01 > figure_of_merit.n.01
+    attribute.n.02 >state.n.02 > skillfulness.n.01 > efficiency.n.02 > economy.n.02
     entity.n.01 > abstraction n.06 > attribute.02
-    language_unitn.01 > word.n.01 > 
+    language_unit.n.01 > word.n.01 > 
+    psychological_feature.n.01 > event.n.01 > happening.n.01 > change.n.01 
+    action.n.01 > change.n.03
+    phenomenon.n.01 > consequence.n.01 >
 
-    >>> HYPONYMS WIDE EXPANSIONS
+    >>> <u>HYPONYMS WIDE EXPANSIONS</u>
 
-    <b>attribute.02</b> > (ballast.n.03,  character.n.09,  cheerfulness.n.01,  common_denominator.n.02,  depth.n.06,  eidos.n.01,  ethos.n.01,  human_nature.n.01,  inheritance.n.04,  personality.n.01,  property.n.02,  quality.n.01,  shape.n.02,  space.n.01,  state.n.02,  thing.n.09,  time.n.05,  trait.n.01,  uncheerfulness.n.02)
+    <b>attribute.n.02</b> > (ballast.n.03,  character.n.09,  cheerfulness.n.01,  common_denominator.n.02,  depth.n.06,  eidos.n.01,  ethos.n.01,  human_nature.n.01,  inheritance.n.04,  personality.n.01,  property.n.02,  quality.n.01,  shape.n.02,  space.n.01,  state.n.02,  thing.n.09,  time.n.05,  trait.n.01,  uncheerfulness.n.02)
     
     <b>concept.n.01</b> > (abstraction, category, conceptualization, fact, hypothesis, law, lexical_concept, notion, part, property, quantity, rule, whole)
 
-    attribute.n.02 > property.n.02
+    <b>change.n.01</b> > ( acceleration.n.01,  avulsion.n.01,  birth.n.02,  break.n.10,  conversion.n.06,  damage.n.01,  death.n.01,  deceleration.n.01,  decrease.n.01,  deformation.n.02,  destabilization.n.01,  development.n.04,  easing.n.01,  increase.n.02,  loss_of_consciousness.n.01,  mutation.n.02,  mutation.n.03,  revolution.n.01,  separation.n.02,  sex_change.n.01,  shimmer.n.01,  sublimation.n.02,  surprise.n.02,  transformation.n.01,  transition.n.03,  transmutation.n.03,  twinkle.n.01,  vagary.n.01,  variation.n.01 )
+
+    <b>state.n.02</b> > ( action.n.02,  being.n.01,  cleavage.n.01,  condition.n.01,  condition.n.03,  conditionality.n.01,  conflict.n.04,  damnation.n.02,  dead_letter.n.01,  death.n.03,  degree.n.02,  dependence.n.01,  disorder.n.03,  dystopia.n.01,  employment.n.01,  end.n.06,  enlargement.n.02,  feeling.n.01,  flux.n.05,  freedom.n.01,  grace.n.01,  ground_state.n.01,  heterozygosity.n.01,  homozygosity.n.01,  hostility.n.02,  illumination.n.02,  immaturity.n.01,  imminence.n.01,  imperfection.n.01,  inaction.n.01,  integrity.n.01,  isomerism.n.01,  kalemia.n.01,  maturity.n.02,  medium.n.08,  merchantability.n.01,  motion.n.04,  motionlessness.n.01,  nationhood.n.01,  neotony.n.01,  nonbeing.n.01,  obligation.n.02,  office.n.04,  omnipotence.n.01,  omniscience.n.01,  order.n.03,  ornamentation.n.01,  ownership.n.03,  paternity.n.01,  perfection.n.01,  plurality.n.01,  polyvalence.n.01,  polyvalence.n.02,  readiness.n.01,  receivership.n.01,  relationship.n.02,  relationship.n.03,  representation.n.04,  revocation.n.01,  separation.n.01,  situation.n.01,  skillfulness.n.01,  status.n.01,  temporary_state.n.01,  tribalism.n.01,  turgor.n.01,  unemployment.n.01,  union.n.04,  utilization.n.02,  utopia.n.02,  wild.n.01 ) 
 
     <b>property.n.02</b> > (actinism.n.01,  age.n.01,  analyticity.n.01,  anisotropy.n.01,  bodily_property.n.01,  characteristic.n.04,  chemical_property.n.01,  compositeness.n.01,  concentration.n.01,  connectivity.n.01,  consistency.n.01,  constitution.n.04,  degree.n.01,  disposition.n.04,  duality.n.02,  edibility.n.01,  extension.n.08,  fullness.n.02,  heredity.n.02,  hydrophobicity.n.01,  isotropy.n.01,  magnitude.n.01,  manner.n.01,  olfactory_property.n.01,  optics.n.02,  physical_property.n.01,  primality.n.01,  saltiness.n.03,  selectivity.n.01,  size.n.02,  solvability.n.01,  sound_property.n.01,  spatial_property.n.01,  strength.n.01,  sustainability.n.01,  tactile_property.n.01,  taste_property.n.01,  temporal_property.n.01,  unsolvability.n.01,  vascularity.n.01,  viability.n.01,  visual_property.n.01,  weakness.n.03)
 
@@ -71,10 +77,10 @@ conditions:
     <b>word.n.01</b> > anagram.n.01,  anaphor.n.01,  antonym.n.01,  back-formation.n.01,  charade.n.02,  classifier.n.02,  cognate.n.02,  content_word.n.01,  contraction.n.03,  deictic.n.01,  derivative.n.04,  diminutive.n.01,  dirty_word.n.02,  disyllable.n.01,  form.n.01,  four-letter_word.n.01,  function_word.n.01,  guide_word.n.01,  head.n.09,  headword.n.02,  heteronym.n.01,  holonym.n.01,  homonym.n.01,  hypernym.n.01,  hyponym.n.01,  key_word.n.02,  loanblend.n.01,  loanword.n.01,  meronym.n.01,  metonym.n.01,  monosyllable.n.01,  neologism.n.01,  nonce_word.n.01,  oxytone.n.01,  palindrome.n.01,  paroxytone.n.01,  partitive.n.01,  polysemant.n.01,  polysyllable.n.01,  primitive.n.03,  proparoxytone.n.01,  quantifier.n.01,  quantifier.n.02,  reduplication.n.03,  retronym.n.01,  substantive.n.01,  syncategorem.n.01,  synonym.n.01,  term.n.01,  terminology.n.01,  trisyllable.n.01,  troponym.n.01,  vocable.n.01,  written_word.n.01,  
 
 
->>> [[___.WORD NET DEFS.___]] <<<
+<u>>>> [[___.WORD NET DEFS.___]] <<<</u>
 
-[HYPONYM.N.01] a word that is more specific than a given word (hypernym (word.n.01))
-[HYPERNYM.N.01]   a word that is more generic than a given word (hypernym (word.n.01))
+<b>[HYPONYM.N.01]</b> a word that is more specific than a given word (hypernym (word.n.01))
+<b>[HYPERNYM.N.01]</b>   a word that is more generic than a given word (hypernym (word.n.01))
 
 
 
