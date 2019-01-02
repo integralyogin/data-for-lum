@@ -1,44 +1,44 @@
-"......[[__.AUTHORS BY SUBJECT.__]]....... ::: "
+<b>[[: AUTHORS BY SUBJECT :]]</b>
 
-"ARTIFICIAL INTELLIGENCE (authors, names) ::: Ben Coppin, David Gamez, Ben Goertzel, George F Luger, Nils J. Nilsson, Peter Norvig, Alan Perlis, Stuart Russell, Steven Tantimoto, Alan Turing, "
+"<b>ARTIFICIAL INTELLIGENCE</b> ::: Ben Coppin, David Gamez, Ben Goertzel, George F Luger, Nils J. Nilsson, Peter Norvig, Alan Perlis, Stuart Russell, Steven Tantimoto, Alan Turing, " #authors #names
 
-"BUDDHISM (authors, names) ::: Khyentse Rinpoche, Sogyal Rinpoche, Dzogchen Ponlop Rinpoche, Chogyam Trungpa, Chodron, see zen"
+"<b>BUDDHISM</b> ::: Khyentse Rinpoche, Sogyal Rinpoche, Dzogchen Ponlop Rinpoche, Chogyam Trungpa, Chodron, " see zen #authors #names
 
-"CHRISTIANITY (authors, names) ::: Saint Thomas Aquinas, Saint Augustine, Saint Teresa of Avila, Pierre Teilhard de Chardin, Meister Eckhart, Saint Francis, Saint Germain, C. S. Lewis, Saint John of the Cross"
+"<b>CHRISTIANITY</b> ::: Saint Thomas Aquinas, Saint Augustine, Saint Teresa of Avila, Pierre Teilhard de Chardin, Meister Eckhart, Saint Francis, Saint Germain, C. S. Lewis, Saint John of the Cross" #authors #names
 
-"COMPUTER SCIENCE (authors, names) ::: Marijn Haverbeke, Richie Kernighan, Linus Torvalds,  "
+"<b>COMPUTER SCIENCE</b> ::: Marijn Haverbeke, Richie Kernighan, Linus Torvalds,  " #authors #names
 
-"CYBERNETICS (authors, names) ::: Norbert Weiner"
+"<b>CYBERNETICS</b> ::: Norbert Weiner" #authors #names
 
-"ENGLISH LITERATURE (authors, names) ::: Douglas Adams, Ibn Arabi, Issac Asimov, Iain M. Banks, Terry Brooks, Orson Scott Card, Lewis Carroll, Arthur C. Clarke, Philip K. Dick, Ralph Waldo Emerson, Neil Gaiman, William Gibson, Haruki Murakami, Robert A. Heinlein, Brian Herbert, Hermann Hesse, Aldous Huxley, Robert Jordan, Stephen King, Arthur Koestler, H. P. Lovecraft, George R. R. Martin, George Orwell, Terry Pratchett, J. R. R. Tolkien, Leo Tolstoy, Voltaire, Kurt Vonnegut, H. G. Wells, Martha Wells, Lu Xun (split into scifi and fantasy)"
+"<b>ENGLISH LITERATURE</b> ::: Douglas Adams, Ibn Arabi, Issac Asimov, Iain M. Banks, Terry Brooks, Orson Scott Card, Lewis Carroll, Arthur C. Clarke, Philip K. Dick, Ralph Waldo Emerson, Neil Gaiman, William Gibson, Haruki Murakami, Robert A. Heinlein, Brian Herbert, Hermann Hesse, Aldous Huxley, Robert Jordan, Stephen King, Arthur Koestler, H. P. Lovecraft, George R. R. Martin, George Orwell, Terry Pratchett, J. R. R. Tolkien, Leo Tolstoy, Voltaire, Kurt Vonnegut, H. G. Wells, Martha Wells, Lu Xun (split into scifi and fantasy)" #authors #names
 
-"INTEGRAL THEORY (authors, names) ::: Ken Wilber, Don Beck, Michael Murphy, Sean-Esbjorn Hargens, Frank Visser"
+"<b>INTEGRAL THEORY</b> ::: Ken Wilber, Don Beck, Michael Murphy, Sean-Esbjorn Hargens, Frank Visser" #authors #names
 
-"INTEGRAL YOGA (authors, names) ::: Sri Aurobindo, The Mother, Nolini Kanta Gupta, Satprem, Champaklal, A. S. Dalal, M. P. Pandit, Pavitra, Nirodbaran, Anilbaran Roy"
+"<b>INTEGRAL YOGA</b> ::: Sri Aurobindo, The Mother, Nolini Kanta Gupta, Satprem, Champaklal, A. S. Dalal, M. P. Pandit, Pavitra, Nirodbaran, Anilbaran Roy" #authors #names
 
-"LINGUISTICS (authors, names) ::: Leonard Bloomfield, Noam Chomsky, Alfred Korzybskyi, Kenneth Pike, Willard Van Orman Quine, Ludwig Wittgenstein"
+"<b>LINGUISTICS</b> ::: Leonard Bloomfield, Noam Chomsky, Alfred Korzybskyi, Kenneth Pike, Willard Van Orman Quine, Ludwig Wittgenstein" #authors #names
 
-"MATHEMATICS (authors, names) ::: R. Buckminster Fuller, Kurt Godel, Blaise Pascal, Bertrand Russell, Norbert Wiener, Alfred North Whitehead"
+"<b>MATHEMATICS</b> ::: R. Buckminster Fuller, Kurt Godel, Blaise Pascal, Bertrand Russell, Norbert Wiener, Alfred North Whitehead" #authors #names
 
-"OCCULTISM (authors, names) ::: Peter J. Carroll, Aleister Crowley, Dion Fortune, Manly P. Hall, Phil Hine, Elphias Levi, Israel Regardie,  Robert Anton Wilson,$"
+"<b>OCCULTISM</b> ::: Peter J. Carroll, Aleister Crowley, Dion Fortune, Manly P. Hall, Phil Hine, Elphias Levi, Israel Regardie,  Robert Anton Wilson," #authors #names
 
-"PHILOSOPHY (authors, names) ::: Aristotle, Jean Baudrillard, Albert Camus, Donald Davidson, Simone de Beauvoir, Jacques Derrida, Rene Descartes, Diogenes, Fyodor Dostoevsky, Michel Foucault, Jurgen Habermas, Georg Wilhelm Friedrich Hegel, Martin Heidegger, Franz Kafka, Walter Kaufmann, Soren Kierkegaard, Saul A. Kripke,  John Stuart Mill, Friedrich Nietzsche, Blaise Pascal, Plato, Plotinus, Jean-Jacques Rousseau, Bertrand Russell, Jean-Paul Sartre, Arthur Schopenhauer, Lucius Annaeus Seneca, William James Sidis, B. Spinoza, Slavoj Zizek"
+"<b>PHILOSOPHY</b> ::: Aristotle, Jean Baudrillard, Albert Camus, Donald Davidson, Simone de Beauvoir, Jacques Derrida, Rene Descartes, Diogenes, Fyodor Dostoevsky, Michel Foucault, Jurgen Habermas, Georg Wilhelm Friedrich Hegel, Martin Heidegger, Franz Kafka, Walter Kaufmann, Soren Kierkegaard, Saul A. Kripke,  John Stuart Mill, Friedrich Nietzsche, Blaise Pascal, Plato, Plotinus, Jean-Jacques Rousseau, Bertrand Russell, Jean-Paul Sartre, Arthur Schopenhauer, Lucius Annaeus Seneca, William James Sidis, B. Spinoza, Slavoj Zizek" #authors #names
 
-"PHYSICS (authors, names) ::: Fritjof Capra, Da Vinci, Albert Einstein, Leonard Euler, Richard P Feynman, Stephen Hawkings, Werner Heisenberg, Thomas Kuhn, Lifschitz Landau, James Clark Maxwell, Jon von Neumann, Issac Newton, Michael Talbot, Nikola Tesla, "
+"<b>PHYSICS</b> ::: Fritjof Capra, Da Vinci, Albert Einstein, Leonard Euler, Richard P Feynman, Stephen Hawkings, Werner Heisenberg, Thomas Kuhn, Lifschitz Landau, James Clark Maxwell, Jon von Neumann, Issac Newton, Michael Talbot, Nikola Tesla, " #authors #names
 
-"POETRY (authors, names) ::: Matsuo Basho, William Blake, Jorge Luis Borges, Cervantes, Dante Alighieri, Kahlil Gibran, Hafiz, Homer, Edgar Allan Poe, Jalaluddin Rumi, Shakespeare,  Izumi Shikibu, Rabindranath Tagore, Sri Aurobindo, Saul Williams, Walt Whitman"
+"<b>POETRY</b> ::: Matsuo Basho, William Blake, Jorge Luis Borges, Cervantes, Dante Alighieri, Kahlil Gibran, Hafiz, Homer, Edgar Allan Poe, Jalaluddin Rumi, Shakespeare,  Izumi Shikibu, Rabindranath Tagore, Sri Aurobindo, Saul Williams, Walt Whitman" #authors #names
 
-"PSYCHOLOGY (authors, names) ::: Alfred Adler, Albert Bandura, Mihaly Csikszentmihaly, Albert Ellis, Erek H. Erikson, Sigmund Freud, Howard Gardner, Jean Gebser, Carol Gilligan, Daniel Goleman, William James, Carl Gustav Jung, Arthur Koestler, Kohlberg, Bruce H. Lipton, Abraham Maslow, Ralph Metzner, Jordan Peterson, Jean Piaget, Carl Rogers, Martin Seligman, Roger Walsh, Wilhelm Max Wundt"
+"<b>PSYCHOLOGY</b> ::: Alfred Adler, Albert Bandura, Mihaly Csikszentmihaly, Albert Ellis, Erek H. Erikson, Sigmund Freud, Howard Gardner, Jean Gebser, Carol Gilligan, Daniel Goleman, William James, Carl Gustav Jung, Arthur Koestler, Kohlberg, Bruce H. Lipton, Abraham Maslow, Ralph Metzner, Jordan Peterson, Jean Piaget, Carl Rogers, Martin Seligman, Roger Walsh, Wilhelm Max Wundt" #authors #names
 
-"SUFISM (authors, names) ::: Jalaluddin Rumi, Kahlil Gibran, Hazrat Inayat Khan, Hafiz, Kabir, $"
+"<b>SUFISM</b> ::: Jalaluddin Rumi, Kahlil Gibran, Hazrat Inayat Khan, Hafiz, Kabir, $" #authors #names
 
-"THEOLOGY (authors, names) ::: James W. Fowler"
+"<b>THEOLOGY</b> ::: James W. Fowler" #authors #names
 
-"YOGA (authors, names) ::: Sri Nisargadatta Maharaj, Sri Ramakrishna, Sri Ramana Maharshi, Swami Satyananda Saraswati, Swami Sivananda, Swami Vivekananda, Paramahansa Yogananda"
+"<b>YOGA</b> (authors, names) ::: Sri Nisargadatta Maharaj, Sri Ramakrishna, Sri Ramana Maharshi, Swami Satyananda Saraswati, Swami Sivananda, Swami Vivekananda, Paramahansa Yogananda" #authors #names
 
-"ZEN (authors, names) ::: Bodhidharma, Dogen Zenji, Taneda Santoka, D. T. Suzuki, Shunryu Suzuki, Hakuin Ekaku, Matsuo Basho?, Shinkichi Takahashi, Enomoto Seifu Jo?$"
+"<b>ZEN</b> ::: Bodhidharma, Dogen Zenji, Taneda Santoka, D. T. Suzuki, Shunryu Suzuki, Hakuin Ekaku, Matsuo Basho?, Shinkichi Takahashi, Enomoto Seifu Jo?$" #authors #names
 
-"UNSORTED (authors, names) ::: Mark Twain, Benjamin Disraeli, Michel de Montaigne, Henry David Thoreau, Lord Byron, Baltasar Gracian, Thomas Fuller, Benjamin Franklin, Francis Bacon, Proverbs, Edward Schon, Xiaolu Guo, Robert Browning, Mizuno?, Henri Bergson, Gottfried Leibniz, Marcus Aurelius, Kant, Hadis, St. Jerome, Robert Fritz, William Butler Yeats, Charles Dickens, Virgil, Nemoto, Bruce Lee, Percy Bysshe Shelley, Petrarch, Charles Baudelaire, Thomas Jefferson, Francis Hutcheson, Marquis de Vauvenargues, Li Qingzhao, Karl Popper, David Hume, Carl Sagan, Choshu, Gospel of Thomas, Oscar Wilde, Henri Poincare, Alfred Hitchcock, "
+"<b>UNSORTED</b> ::: Mark Twain, Benjamin Disraeli, Michel de Montaigne, Henry David Thoreau, Lord Byron, Baltasar Gracian, Thomas Fuller, Benjamin Franklin, Francis Bacon, Proverbs, Edward Schon, Xiaolu Guo, Robert Browning, Mizuno?, Henri Bergson, Gottfried Leibniz, Marcus Aurelius, Kant, Hadis, St. Jerome, Robert Fritz, William Butler Yeats, Charles Dickens, Virgil, Nemoto, Bruce Lee, Percy Bysshe Shelley, Petrarch, Charles Baudelaire, Thomas Jefferson, Francis Hutcheson, Marquis de Vauvenargues, Li Qingzhao, Karl Popper, David Hume, Carl Sagan, Choshu, Gospel of Thomas, Oscar Wilde, Henri Poincare, Alfred Hitchcock, Miyamoto Musashi, " #authors #names
 
 "OCCULTISM::: The Circle, The Wand"
 
