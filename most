@@ -1,0 +1,201 @@
+# MAP OF SEARCH TERMS
+# see goiy_list, verbs, hist_P_S, ein, nltk def
+# word chains?
+    # Why, why do, why should, why does, why do I, why should I, why does the, why did 
+# word profiles.
+# hypernyms? 
+
+example:
+    def[1-x]:
+    grammactic relations:
+        syn:
+        antonym:
+        hypernym:
+    fam based relations:
+        parent:
+        siblings:
+        children:
+    pairs(bigrams): 
+    strings/chains:
+        quotes:
+    forms:
+        high forms:
+        low forms:
+    special:
+    unsorted:
+
+knowledge
+    syn:
+        acknowledge, remember
+    antonym:
+        ignorance
+    unsorted:
+        
+conditions:
+    leads to
+    if ___ then ____
+    but first 
+    
+    >>> [[___.WORD_NET.___]] <<<
+
+    <<< HYPERNYM CHAINS
+
+    <b>strength n.01</b> < property n.02 < attribute n.02 < abstraction n.06 < entity n.01
+    <b>intellience n.01</b> < ability n.02 < cognition n.01 < psychological_feature n.01 < abstraction.n.06
+    willpower(self_control n.02) < resoluteness n.01 < trait n.01 < attribute n.02
+    wisdom n.01 < content n.05 < cognition.n.01
+    wisdom n.02 < trait.n.01 < attribute n.02
+    wisdom n.03 < know-how n.01 < ability.n.02
+    wisdom n.04 < good.n.03 < quality.n.01(!) < attribute n.01
+
+    >>> HYPONYM EXPANSIONS
+
+
+    entity.n.01 > abstraction n.06 > attribute.02
+    language_unitn.01 > word.n.01 > 
+
+    >>> HYPONYMS WIDE EXPANSIONS
+
+    <b>attribute.02</b> > (ballast.n.03,  character.n.09,  cheerfulness.n.01,  common_denominator.n.02,  depth.n.06,  eidos.n.01,  ethos.n.01,  human_nature.n.01,  inheritance.n.04,  personality.n.01,  property.n.02,  quality.n.01,  shape.n.02,  space.n.01,  state.n.02,  thing.n.09,  time.n.05,  trait.n.01,  uncheerfulness.n.02)
+    
+    <b>concept.n.01</b> > (abstraction, category, conceptualization, fact, hypothesis, law, lexical_concept, notion, part, property, quantity, rule, whole)
+
+    attribute.n.02 > property.n.02
+
+    <b>property.n.02</b> > (actinism.n.01,  age.n.01,  analyticity.n.01,  anisotropy.n.01,  bodily_property.n.01,  characteristic.n.04,  chemical_property.n.01,  compositeness.n.01,  concentration.n.01,  connectivity.n.01,  consistency.n.01,  constitution.n.04,  degree.n.01,  disposition.n.04,  duality.n.02,  edibility.n.01,  extension.n.08,  fullness.n.02,  heredity.n.02,  hydrophobicity.n.01,  isotropy.n.01,  magnitude.n.01,  manner.n.01,  olfactory_property.n.01,  optics.n.02,  physical_property.n.01,  primality.n.01,  saltiness.n.03,  selectivity.n.01,  size.n.02,  solvability.n.01,  sound_property.n.01,  spatial_property.n.01,  strength.n.01,  sustainability.n.01,  tactile_property.n.01,  taste_property.n.01,  temporal_property.n.01,  unsolvability.n.01,  vascularity.n.01,  viability.n.01,  visual_property.n.01,  weakness.n.03)
+
+    <b>change.v.01</b> > ( accelerate.v.02,  acerbate.v.02,  acetylate.v.02,  achromatize.v.01,  activate.v.02,  activate.v.03,  activate.v.04,  activate.v.05,  adjust.v.01,  affect.v.01,  affect.v.02,  age.v.03,  alchemize.v.01,  alcoholize.v.03,  alkalinize.v.02,  allegorize.v.02,  alter.v.03,  americanize.v.01,  angulate.v.01,  animize.v.01,  antiquate.v.01,  antique.v.02,  archaize.v.01,  arterialize.v.01,  ash.v.01,  assimilate.v.03,  automatize.v.01,  automatize.v.02,  awaken.v.01,  barb.v.01,  barbarize.v.02,  bestialize.v.01,  better.v.02,  blind.v.02,  blister.v.03,  blunt.v.04,  blur.v.02,  blur.v.05,  boil.v.03,  break.v.39,  break_down.v.01,  brighten.v.01,  bring.v.02,  bring.v.05,  brutalize.v.02,  bubble.v.04,  calcify.v.04,  camp.v.03,  capture.v.04,  cause_to_sleep.v.01,  centralize.v.01,  change_intensity.v.01,  change_taste.v.01,  charge.v.08,  charge.v.23,  chasten.v.02,  check.v.07,  circularize.v.05,  civilize.v.02,  clarify.v.02,  classicize.v.01,  clean.v.01,  clear.v.20,  clot.v.02,  cloud.v.06,  coarsen.v.01,  coarsen.v.02,  cohere.v.02,  color.v.01,  commercialize.v.02,  communize.v.01,  commute.v.04,  complicate.v.01,  complicate.v.02,  condense.v.07,  confuse.v.05,  constitutionalize.v.03,  contaminate.v.02,  conventionalize.v.01,  convert.v.01,  convert.v.02,  convert.v.05,  cook.v.05,  cool.v.01,  corrupt.v.01,  counterchange.v.01,  crack.v.11,  cry.v.07,  customize.v.02,  damage.v.01,  darken.v.03,  de-emphasize.v.01,  deaden.v.03,  deaden.v.06,  deaminate.v.01,  decarboxylate.v.02,  decelerate.v.02,  decentralize.v.01,  decimalize.v.01,  decorate.v.01,  decrease.v.02,  decrepitate.v.02,  deflate.v.04,  deform.v.01,  dehydrogenate.v.01,  demagnetize.v.02,  demist.v.01,  democratize.v.02,  demonize.v.01,  demulsify.v.01,  demythologize.v.01,  denationalize.v.01,  denaturalize.v.01,  denaturalize.v.02,  denature.v.01,  denature.v.02,  denature.v.03,  deodorize.v.01,  depersonalize.v.01,  depolarize.v.01,  desensitize.v.01,  desensitize.v.02,  destabilize.v.02,  detransitivize.v.01,  devalue.v.02,  develop.v.12,  develop.v.15,  devilize.v.01,  digitize.v.01,  dinge.v.02,  dirty.v.01,  disable.v.01,  discolor.v.02,  disharmonize.v.01,  disintegrate.v.02,  disorder.v.02,  disqualify.v.01,  dissimilate.v.02,  dissolve.v.07,  dissolve.v.11,  diversify.v.01,  dizzy.v.01,  domesticate.v.02,  dope.v.02,  draw.v.16,  dry.v.01,  dull.v.01,  dull.v.05,  dynamize.v.01,  dynamize.v.02,  ease_up.v.03,  edit.v.01,  edit.v.03,  embrittle.v.01,  empty.v.01,  emulsify.v.01,  enable.v.01,  end.v.02,  equal.v.03,  eroticize.v.01,  estrange.v.02,  etherealize.v.01,  etiolate.v.02,  etiolate.v.03,  europeanize.v.01,  europeanize.v.02,  evaporate.v.02,  even.v.02,  excite.v.07,  excite.v.08,  extend.v.09,  exteriorize.v.02,  fatten.v.01,  feminize.v.02,  fertilize.v.02,  fill.v.01,  fix.v.12,  flatten.v.03,  flocculate.v.02,  freeze.v.04,  frenchify.v.01,  full.v.02,  gelatinize.v.03,  glamorize.v.02,  glorify.v.02,  habituate.v.02,  harmonize.v.06,  harshen.v.01,  heat.v.01,  hue.v.01,  humanize.v.01,  humble.v.01,  hydrogenate.v.01,  immaterialize.v.01,  immortalize.v.02,  inactivate.v.02,  incandesce.v.01,  increase.v.02,  indispose.v.03,  industrialize.v.01,  inflate.v.03,  inform.v.02,  inseminate.v.02,  insulate.v.01,  intensify.v.04,  internationalize.v.02,  introvert.v.02,  invalidate.v.04,  invert.v.01,  iodinate.v.01,  ionate.v.01,  islamize.v.01,  isomerize.v.01,  laicize.v.01,  legitimate.v.03,  lend.v.01,  liberalize.v.01,  lifehack.v.01,  lift.v.10,  liquefy.v.02,  loosen.v.01,  loosen.v.06,  louden.v.02,  lower.v.04,  lubricate.v.03,  magnetize.v.01,  make.v.02,  make.v.18,  make.v.45,  mark.v.05,  masculinize.v.01,  masculinize.v.02,  mechanize.v.02,  mechanize.v.03,  militarize.v.01,  militarize.v.02,  mince.v.01,  mix.v.05,  morph.v.01,  muddy.v.03,  mythologize.v.02,  nationalize.v.01,  nationalize.v.02,  naturalize.v.01,  naturalize.v.04,  nazify.v.01,  neutralize.v.01,  neutralize.v.06,  nick.v.03,  normalize.v.02,  obfuscate.v.01,  obscure.v.03,  obscure.v.05,  occidentalize.v.01,  officialize.v.01,  opacify.v.01,  opalize.v.01,  opsonize.v.01,  orientalize.v.01,  ossify.v.03,  outmode.v.01,  oxidize.v.02,  oxygenize.v.01,  paganize.v.01,  pall.v.05,  parallel.v.02,  patent.v.03,  personalize.v.01,  piggyback.v.05,  plasticize.v.02,  poison.v.03,  polarize.v.01,  politicize.v.01,  port.v.08,  professionalize.v.02,  proof.v.04,  prostrate.v.02,  purify.v.02,  put.v.02,  radicalize.v.01,  rarefy.v.01,  rarefy.v.02,  rationalize.v.05,  recombine.v.02,  recommend.v.03,  reconstruct.v.03,  refine.v.06,  reflate.v.02,  reform.v.02,  refresh.v.04,  relax.v.06,  remodel.v.01,  restore.v.05,  revolutionize.v.01,  right.v.01,  right.v.02,  ripen.v.01,  romanticize.v.02,  round_off.v.03,  rusticate.v.05,  sanitize.v.02,  saponify.v.02,  saturate.v.01,  sauce.v.03,  schematize.v.02,  scramble.v.05,  sensitize.v.01,  sensitize.v.03,  sensitize.v.04,  sentimentalize.v.02,  set.v.05,  sexualize.v.01,  shade.v.04,  shake.v.08,  shallow.v.01,  shape.v.03,  sharpen.v.01,  sharpen.v.06,  shift.v.05,  shorten.v.03,  simplify.v.01,  slenderize.v.01,  smut.v.01,  sober.v.01,  socialize.v.04,  soften.v.06,  solemnize.v.03,  solvate.v.01,  spice.v.01,  spike.v.05,  sputter.v.02,  stabilize.v.01,  stain.v.02,  steepen.v.02,  stiffen.v.02,  still.v.04,  straighten.v.02,  strengthen.v.01,  string.v.07,  substitute.v.01,  suburbanize.v.02,  supercharge.v.02,  supple.v.01,  suspend.v.02,  suspend.v.05,  sweeten.v.02,  switch.v.04,  symmetrize.v.01,  synchronize.v.03,  tame.v.01,  tender.v.04,  tense.v.02,  territorialize.v.02,  thicken.v.01,  think.v.13,  tighten.v.01,  tone_down.v.02,  touch.v.11,  transaminate.v.01,  transfigure.v.01,  transform.v.01,  transform.v.02,  transform.v.05,  transform.v.06,  transform.v.07,  transitivize.v.01,  translate.v.02,  transmute.v.03,  transpose.v.07,  turn.v.16,  turn_back.v.05,  uglify.v.01,  unclutter.v.01,  uniformize.v.01,  unite.v.05,  unite.v.06,  unsanctify.v.01,  unscramble.v.01,  unsex.v.02,  untie.v.02,  untune.v.02,  urbanize.v.01,  urbanize.v.02,  validate.v.04,  variegate.v.01,  vascularize.v.02,  ventilate.v.05,  verbify.v.01,  vesiculate.v.02,  visualize.v.04,  vitalize.v.01,  vitrify.v.01,  vivify.v.02,  volatilize.v.01,  vulgarise.v.02,  warm.v.02,  weaken.v.01,  weaponize.v.01,  wet.v.01,  widen.v.03,  worsen.v.02 )
+
+    <b>change.v.02</b> > ( acetylate.v.01,  adjust.v.03,  alkalinize.v.01,  americanize.v.02,  ascend.v.08,  assibilate.v.02,  assimilate.v.05,  assume.v.03,  barbarize.v.01,  boil.v.02,  break.v.22,  break_into.v.02,  brutalize.v.03,  calcify.v.02,  capacitate.v.02,  carbonate.v.01,  caseate.v.01,  caseate.v.02,  catch.v.12,  catch_on.v.02,  change_by_reversal.v.01,  change_integrity.v.01,  change_magnitude.v.01,  change_posture.v.01,  change_shape.v.01,  change_state.v.01,  change_surface.v.01,  clinker.v.02,  collapse.v.01,  come.v.04,  come_in.v.03,  come_round.v.01,  commute.v.01,  complexify.v.01,  concretize.v.02,  conjugate.v.03,  convert.v.03,  convert.v.11,  cool.v.03,  crack.v.01,  crack.v.13,  crash.v.11,  creolize.v.01,  cure.v.04,  damage.v.02,  darken.v.01,  dawn.v.03,  deaden.v.05,  decalcify.v.01,  decarboxylate.v.01,  decay.v.02,  decay.v.03,  decrepitate.v.01,  deepen.v.04,  defervesce.v.01,  democratize.v.01,  deoxidize.v.01,  desalinate.v.01,  destabilize.v.01,  develop.v.03,  develop.v.14,  die.v.09,  digest.v.04,  dim.v.02,  discolor.v.01,  discolor.v.03,  dissimilate.v.01,  dissimilate.v.03,  distill.v.02,  dress.v.01,  drift.v.09,  drop.v.20,  dry.v.02,  dull.v.02,  evaporate.v.03,  fail.v.04,  fall.v.26,  fall.v.27,  fall_for.v.01,  felt.v.03,  feminize.v.01,  flip.v.10,  flocculate.v.01,  fly.v.07,  fold.v.05,  form.v.07,  format.v.01,  foul.v.07,  freshen.v.02,  gel.v.01,  gelatinize.v.02,  give_way.v.03,  glaze.v.02,  go_out.v.05,  gradate.v.02,  grow.v.08,  grow.v.10,  gum.v.03,  harden.v.01,  harden.v.02,  have.v.11,  hush.v.01,  hydrate.v.02,  hydrolyze.v.01,  ice_up.v.01,  incandesce.v.02,  indurate.v.01,  industrialize.v.02,  introject.v.01,  ionize.v.01,  isomerize.v.02,  keratinize.v.02,  leave.v.08,  liberalize.v.02,  lighten.v.05,  make.v.30,  mature.v.03,  mellow.v.02,  modernize.v.02,  modify.v.01,  mold.v.02,  move.v.13,  mutate.v.01,  narrow.v.01,  normalize.v.01,  obsolesce.v.01,  occult.v.02,  opacify.v.02,  oxidise.v.02,  oxidize.v.02,  pall.v.01,  pass.v.18,  plasticize.v.01,  play_out.v.04,  prim.v.01,  professionalize.v.01,  promote.v.04,  purify.v.03,  recede.v.03,  receive.v.02,  recombine.v.01,  reflate.v.01,  regenerate.v.08,  regress.v.01,  rejuvenate.v.02,  relax.v.07,  reorient.v.03,  repress.v.04,  resume.v.02,  reticulate.v.01,  rise.v.11,  roll.v.18,  salinate.v.01,  saponify.v.01,  separate.v.12,  sequester.v.03,  settle.v.15,  shade.v.05,  shallow.v.02,  shear.v.04,  shift.v.06,  shift.v.11,  smoothen.v.03,  soften.v.07,  solarize.v.02,  spot.v.05,  stabilize.v.03,  stagnate.v.02,  steepen.v.01,  stiffen.v.01,  stratify.v.03,  strengthen.v.02,  sublime.v.01,  suburbanize.v.01,  suffuse.v.02,  superannuate.v.03,  swing.v.08,  synthesize.v.02,  tighten.v.02,  transaminate.v.02,  transform.v.03,  transpire.v.03,  turn.v.07,  turn_on.v.04,  ulcerate.v.01,  undergo.v.01,  undulate.v.04,  vascularize.v.01,  vesiculate.v.01,  vitrify.v.02,  vulcanize.v.01,  warm.v.01,  warm_up.v.02 )
+
+    <b>word.n.01</b> > anagram.n.01,  anaphor.n.01,  antonym.n.01,  back-formation.n.01,  charade.n.02,  classifier.n.02,  cognate.n.02,  content_word.n.01,  contraction.n.03,  deictic.n.01,  derivative.n.04,  diminutive.n.01,  dirty_word.n.02,  disyllable.n.01,  form.n.01,  four-letter_word.n.01,  function_word.n.01,  guide_word.n.01,  head.n.09,  headword.n.02,  heteronym.n.01,  holonym.n.01,  homonym.n.01,  hypernym.n.01,  hyponym.n.01,  key_word.n.02,  loanblend.n.01,  loanword.n.01,  meronym.n.01,  metonym.n.01,  monosyllable.n.01,  neologism.n.01,  nonce_word.n.01,  oxytone.n.01,  palindrome.n.01,  paroxytone.n.01,  partitive.n.01,  polysemant.n.01,  polysyllable.n.01,  primitive.n.03,  proparoxytone.n.01,  quantifier.n.01,  quantifier.n.02,  reduplication.n.03,  retronym.n.01,  substantive.n.01,  syncategorem.n.01,  synonym.n.01,  term.n.01,  terminology.n.01,  trisyllable.n.01,  troponym.n.01,  vocable.n.01,  written_word.n.01,  
+
+
+>>> [[___.WORD NET DEFS.___]] <<<
+
+[HYPONYM.N.01] a word that is more specific than a given word (hypernym (word.n.01))
+[HYPERNYM.N.01]   a word that is more generic than a given word (hypernym (word.n.01))
+
+
+
+do (v):
+    syn:
+        act
+    pairs:
+        do only, do not, 
+    strings
+        do not let yourself fall back to the lower consciousness
+        do not forget
+        do nothing unless
+        do nothing except
+    high and low forms?:
+        as an offering
+
+evil:
+    def:
+        
+
+act always as if
+act as if
+
+_____ of the Mother
+
+
+I:
+    I have work to do. (affirmation?)
+    I need to become strong.
+    I turn away
+
+needs:
+    iy: 
+        patience, endurance, faith, trust, 
+    maslows hierarchy:
+        survival, actualization, transcendence
+    strings:
+        I need to become strong.
+    quotes:
+        her greatest Progress was a deepened need. ~ SA, Savitri
+
+
+parts of self:
+    integral yoga:
+        higher
+        lower nature
+        depths, inner to outer
+    integral theory:
+
+questions:
+    why do I suffer?
+
+      
+remember (v):
+    def:
+        be conscious of
+    primary object noun:
+        God
+    strings:
+        Whenever there is any difficulty we must always remember that we are here exclusively to accomplish the Divine's will. ~ The Mother, WoTM-II
+
+
+When we are concentrated in mental movements or intellectual pursuits, why do we sometimes forget or lose touch with the Divine? > You lose it because your consciousness is still divided. The Divine has not settled in your mind; you are not wholly consecrated to the Divine Life. Otherwise you could concentrate to any extent upon such things and still you would have the sense of being helped and supported by the Divine. In all pursuits, intellectual or active, your one motto should be, Remember and Offer. Let whatever you do be done as an offering to the Divine. And this too will be an excellent discipline for you; it will prevent you from doing many foolish and useless things. ~ The Mother, Questions And Answers 1929-1931
+
+time:
+    in every moment, in each moment, always, never, 
+    not even for a second
+
+theories:
+    iy:
+    it:
+    m:
+
+
+you must
+it is essential
+
+linked unsorted:
+awak, awakening, waking, morning, getting up, when you wake,
+
+unlinked unsorted:
+    wishes to live in the shadows
+    Sri Aurobindo has risen? the status of the English language (how to find related quote?)
+    Sri Aurobindo has _____ _____ (what are all possible results for these two spots) esp by most common
+    Photo of the Mother
+    an integral rejection leads to an integral purity?
+    when all is lost
+    when all is seemingly lost    
+    its not enough to
+    its not enough to dedicate oneself to the study of scripture
+    questions
+    what is brain exploding feeling? is it good? what is its purpose?
+    enough
+    what is enough, that is enough, would be enough
+    just let me keep this
+    just let me have this
+    always do what you know to be best
+    do not let your self slip even for a moment
+    do not forget
+    always remember ____
+    raise the consciousness
+    every subject has its truths
+    comparison of digital libraries
+    reading Sri Aurobindo as a means of gaining realization
+    Consciousness-Force and Realization
+    walking, drugs and meditation as a means of changing/raising the consciousness
+    insight, ideas revealed possibilities, inspiration, intuition, vision, knowledge
+    walking as a means of clarity
+    greater capacity
+    requirements?
+    types of knowledge
+    spell:realise
+    spell: raise consciousness
+    spells compendium
+    chant the sacred verses
+    metadata profile generation for books and webpages
+    downloading Sri Aurobindo's writings into my mind
+    machine learning and digital libraries
+    money making robots (ex trading bots, or )
+    to be capable of knowledge
+    you can only compare data in memory?
+    escape
+    addiction
+    drugs
